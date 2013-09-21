@@ -8,14 +8,14 @@
     defaultLabelBGColor: '#fff',
     defaultLabelHoverColor: '#000',
     defaultNodeColor: '#3366CC',
-    labelThreshold: 6
+    labelThreshold: 1
   }).graphProperties({
     minNodeSize: 0.5,
     maxNodeSize: 5,
     minEdgeSize: 0.1,
     maxEdgeSize: 50
   }).mouseProperties({
-    maxRatio: 32
+    maxRatio: 10
   });
 
   // (requires "sigma.parseGexf.js" to be executed)

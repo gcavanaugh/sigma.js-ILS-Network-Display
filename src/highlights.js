@@ -5,7 +5,7 @@ function init() {
     defaultLabelSize: 14,
     defaultLabelBGColor: '#fff',
     defaultLabelHoverColor: '#000',
-    labelThreshold: 6,
+    labelThreshold: 3,
     defaultEdgeType: 'curve'
   }).graphProperties({
     minNodeSize: 0.5,
@@ -13,7 +13,7 @@ function init() {
     minEdgeSize: 1,
     maxEdgeSize: 1
   }).mouseProperties({
-    maxRatio: 4
+    maxRatio: 10
   });
 
   // Parse a GEXF encoded file to fill the graph
