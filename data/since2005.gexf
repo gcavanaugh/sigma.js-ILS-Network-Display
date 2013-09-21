@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-09-21">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="Group" title="Group" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="DealNum" title="DealNum" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Assurant" label="Assurant">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="7.6086955"></viz:size>
+        <viz:position x="105.79517" y="-158.17944" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Hartford Fire Insurance Co." label="Hartford Fire Insurance Co.">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="7.6086955"></viz:size>
+        <viz:position x="80.822784" y="-81.1233" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Liberty Mutual" label="Liberty Mutual">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="7.6086955"></viz:size>
+        <viz:position x="-22.920963" y="-204.91115" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Aetna Life Insurance Company" label="Aetna Life Insurance Company">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="6.7391305"></viz:size>
+        <viz:position x="121.59856" y="-97.06698" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Allstate" label="Allstate">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="6.7391305"></viz:size>
+        <viz:position x="141.65071" y="-5.6726356" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Chartis" label="Chartis">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="6.7391305"></viz:size>
+        <viz:position x="-87.76463" y="-130.47383" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Zenkyoren" label="Zenkyoren">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="6.7391305"></viz:size>
+        <viz:position x="-138.3714" y="-18.037235" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="North Carolina JUA / IUA" label="North Carolina JUA / IUA">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="6.7391305"></viz:size>
+        <viz:position x="-115.33461" y="-220.72841" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="American Family Mutual Insurance Co." label="American Family Mutual Insurance Co.">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="80.95212" y="60.88504" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Argo Re" label="Argo Re">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="278.95892" y="-82.413506" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="AXA" label="AXA">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-58.63717" y="-302.10724" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="JP Morgan" label="JP Morgan">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-337.9336" y="-147.63098" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="East Japan Railway Company" label="East Japan Railway Company">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-184.88959" y="41.851246" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="EDF" label="EDF">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="87.689964" y="-376.42175" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="First Mutual Transportation Assurance Co." label="First Mutual Transportation Assurance Co.">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="134.01988" y="-187.83302" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="FONDEN" label="FONDEN">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="175.64404" y="-279.24255" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Hannover Re" label="Hannover Re">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-14.109477" y="94.1211" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Massachusetts Property Insurance Underwriting Association" label="Massachusetts Property Insurance Underwriting Association">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-295.08856" y="-97.53601" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Mitsui Sumitomo" label="Mitsui Sumitomo">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-91.27459" y="-285.34402" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="National Union Fire Insurance Co. of Pittsburgh" label="National Union Fire Insurance Co. of Pittsburgh">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-99.41687" y="78.33739" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Nephila Capital" label="Nephila Capital">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="165.79128" y="-309.0306" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Turkish Catastrophe Insurance Pool" label="Turkish Catastrophe Insurance Pool">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-221.00093" y="-35.236923" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="ABN Amro" label="ABN Amro">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-488.06546" y="-237.81578" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Bank of New York Mellon" label="Bank of New York Mellon">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="167.13779" y="44.863686" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="ACE American Insurance Co." label="ACE American Insurance Co.">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="42.345234" y="-432.01624" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="American Coastal Insurance Company" label="American Coastal Insurance Company">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-333.85242" y="-393.30786" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Amlin AG" label="Amlin AG">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="3.91843" y="174.23262" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="AXIS Capital Holdings Ltd. subsidiaries" label="AXIS Capital Holdings Ltd. subsidiaries">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-40.23918" y="194.3603" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Balboa Insurance" label="Balboa Insurance">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-76.25228" y="-417.88055" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="California Earthquake Authority" label="California Earthquake Authority">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="293.671" y="17.50465" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="California State Compensation Insurance Fund" label="California State Compensation Insurance Fund">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-292.51355" y="-435.16974" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Citigroup" label="Citigroup">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="142.97012" y="-406.02374" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Endurance Speciality" label="Endurance Speciality">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="361.6116" y="-139.48984" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="FM Global" label="FM Global">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="347.90396" y="-187.93895" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Glacier Reinsurance" label="Glacier Reinsurance">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="334.61795" y="-264.758" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Groupama" label="Groupama">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-47.64887" y="-447.5962" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="HomeWise Insurance Co." label="HomeWise Insurance Co.">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="83.97379" y="-463.57806" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Louisiana Citizens" label="Louisiana Citizens">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-185.42194" y="117.92238" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="New Jersey Manufacturers Insurance Group" label="New Jersey Manufacturers Insurance Group">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="249.60945" y="1566.4208" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Oil Casualty Insurance Ltd." label="Oil Casualty Insurance Ltd.">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="369.58942" y="-102.26172" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Platinum Underwriters Ltd." label="Platinum Underwriters Ltd.">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="354.2974" y="-225.58156" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Renaissance Re and DaVinci Re" label="Renaissance Re and DaVinci Re">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-156.29523" y="149.41925" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="State Farm" label="State Farm">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-124.12302" y="164.43146" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="The Cincinnati Insurance Company" label="The Cincinnati Insurance Company">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="102.144424" y="1524.7863" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Tokio Marine" label="Tokio Marine">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-89.76119" y="178.49474" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Unknown Florida based cedant" label="Unknown Florida based cedant">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="166.36186" y="1434.4979" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Unknown Florida based cedent" label="Unknown Florida based cedent">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="264.10217" y="1474.8396" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Vega Capital" label="Vega Capital">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="208.54944" y="84.454155" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Chubb Group" label="Chubb Group">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="8.478261"></viz:size>
+        <viz:position x="35.238888" y="-237.91034" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Goldman Sachs" label="Goldman Sachs">
+        <attvalues>
+          <attvalue for="degree" value="23"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="24.130436"></viz:size>
+        <viz:position x="206.4463" y="-171.67476" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Nationwide Mutual Insurance Co." label="Nationwide Mutual Insurance Co.">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="8.478261"></viz:size>
+        <viz:position x="42.912743" y="-51.213627" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="GC Securities" label="GC Securities">
+        <attvalues>
+          <attvalue for="degree" value="17"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-54.282555" y="-144.68552" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="SCOR" label="SCOR">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="8.478261"></viz:size>
+        <viz:position x="94.804794" y="-118.04184" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Aon Benfield Securities" label="Aon Benfield Securities">
+        <attvalues>
+          <attvalue for="degree" value="24"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="-40.07384" y="-2.4012687" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Catlin" label="Catlin">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="9.347826"></viz:size>
+        <viz:position x="-247.18727" y="-164.69946" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Willis Capital Markets" label="Willis Capital Markets">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="10.217391"></viz:size>
+        <viz:position x="-197.52968" y="-301.37875" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Munich Re" label="Munich Re">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="9.347826"></viz:size>
+        <viz:position x="-181.08919" y="-149.2499" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Morgan Stanley" label="Morgan Stanley">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-121.041595" y="-182.36678" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Travelers" label="Travelers">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="9.347826"></viz:size>
+        <viz:position x="53.062695" y="-144.45361" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Swiss Re Capital Markets" label="Swiss Re Capital Markets">
+        <attvalues>
+          <attvalue for="degree" value="20"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="21.521738"></viz:size>
+        <viz:position x="25.807194" y="-269.6215" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="USAA" label="USAA">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="9.347826"></viz:size>
+        <viz:position x="2.1234941" y="-158.89902" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Deutsche Bank Securities" label="Deutsche Bank Securities">
+        <attvalues>
+          <attvalue for="degree" value="14"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="16.304348"></viz:size>
+        <viz:position x="163.02917" y="-66.66538" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Allianz" label="Allianz">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="10.217391"></viz:size>
+        <viz:position x="53.954964" y="-172.24464" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Allianz Re" label="Allianz Re">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="214.06769" y="-243.69649" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Flagstone Re" label="Flagstone Re">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="10.217391"></viz:size>
+        <viz:position x="126.42497" y="-21.227934" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="UBS" label="UBS">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="187.7784" y="127.91251" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Swiss Re" label="Swiss Re">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="10.217391"></viz:size>
+        <viz:position x="92.24119" y="-36.98053" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="BNP Paribas" label="BNP Paribas">
+        <attvalues>
+          <attvalue for="degree" value="13"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="15.434782"></viz:size>
+        <viz:position x="-23.769411" y="-65.207375" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="AIG" label="AIG">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="7.6086955"></viz:size>
+        <viz:position x="0.45294112" y="-130.49338" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Natixis" label="Natixis">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="6.7391305"></viz:size>
+        <viz:position x="95.18751" y="-254.06752" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Zurich American Insurance Corporation" label="Zurich American Insurance Corporation">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="7.6086955"></viz:size>
+        <viz:position x="-156.60692" y="-114.54864" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Munich Re Risk Trading" label="Munich Re Risk Trading">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="11.086956"></viz:size>
+        <viz:position x="-141.6596" y="-80.68664" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Aspen Insurance" label="Aspen Insurance">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-305.3052" y="-318.67047" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Lehman Brothers" label="Lehman Brothers">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="6.7391305"></viz:size>
+        <viz:position x="-204.45866" y="-237.61893" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Aurigen Reinsurance" label="Aurigen Reinsurance">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="27.057093" y="-520.5994" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Credit Agricole Securities" label="Credit Agricole Securities">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="29.607424" y="-681.7819" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Brit Insurance" label="Brit Insurance">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="-670.14874" y="-309.2507" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="MMC Securities" label="MMC Securities">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-794.87866" y="-367.65323" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Citizens Property Insurance" label="Citizens Property Insurance">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.869565"></viz:size>
+        <viz:position x="434.49307" y="-172.13826" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Loop Capital Markets" label="Loop Capital Markets">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="590.11017" y="-194.33186" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="Florida Municipal Insurance Trust" label="Florida Municipal Insurance Trust">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="159.84718" y="1589.1724" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="Towers Watson Capital Markets" label="Towers Watson Capital Markets">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="8.478261"></viz:size>
+        <viz:position x="192.75452" y="1511.7465" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+      <node id="MyLotto24" label="MyLotto24">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Cedent"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1426.1776" y="-707.5136" z="0.0"></viz:position>
+        <viz:color r="255" g="249" b="163"></viz:color>
+      </node>
+      <node id="inea GmbH" label="inea GmbH">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="Group" value="Broker"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1429.8192" y="-766.52527" z="0.0"></viz:position>
+        <viz:color r="0" g="133" b="33"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="99" source="Assurant" target="Swiss Re Capital Markets" label="Ibis Re II Ltd. (Series 2013-1) - 2013-06-01" weight="185.29552">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="Assurant" target="Goldman Sachs" label="Ibis Re Ltd. (Series 2010-1) - 2010-05-01 | Ibis Re Ltd. (Series 2009-1) - 2009-04-01 | Ibis Re II Ltd. (Series 2013-1) - 2013-06-01" weight="510.6055">
+        <viz:color r="218" g="229" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="Assurant" target="Aon Benfield Securities" label="Ibis Re II Ltd. (Series 2013-1) - 2013-06-01 | Ibis Re II Ltd. (Series 2012-1) - 2012-01-01 | Ibis Re Ltd. (Series 2010-1) - 2010-05-01" weight="480.2251">
+        <viz:color r="219" g="230" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="Assurant" target="Deutsche Bank Securities" label="Ibis Re II Ltd. (Series 2012-1) - 2012-01-01" weight="134.13632">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="Hartford Fire Insurance Co." target="Goldman Sachs" label="Foundation Re III Ltd. (Series 2011-1) - 2011-02-01 | Foundation Re III Ltd. - 2010-01-01 | Foundation Re II Ltd. (Series 2006-1) - 2006-11-01" weight="624.2144">
+        <viz:color r="214" g="225" b="238"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="Hartford Fire Insurance Co." target="GC Securities" label="Foundation Re III Ltd. (Series 2011-1) - 2011-02-01 | Foundation Re III Ltd. - 2010-01-01" weight="336.94614">
+        <viz:color r="225" g="236" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="139" source="Hartford Fire Insurance Co." target="Deutsche Bank Securities" label="Foundation Re III Ltd. - 2010-01-01" weight="194.27959">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="Hartford Fire Insurance Co." target="BNP Paribas" label="Foundation Re II Ltd. (Series 2006-1) - 2006-11-01" weight="287.26828">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="Liberty Mutual" target="Swiss Re Capital Markets" label="Mystic Re III Ltd. (Series 2012-1) - 2012-03-01 | Mystic Re II Ltd. (Series 2009-1) - 2009-03-01" weight="527.7679">
+        <viz:color r="218" g="228" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="Liberty Mutual" target="Goldman Sachs" label="Mystic Re II Ltd. (Series 2009-1) - 2009-03-01" weight="247.39116">
+        <viz:color r="228" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="Liberty Mutual" target="Aon Benfield Securities" label="Mystic Re III Ltd. (Series 2012-1) - 2012-03-01" weight="280.3767">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="Liberty Mutual" target="Willis Capital Markets" label="Mystic Re III Ltd. (Series 2012-1) - 2012-03-01" weight="280.3767">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="Aetna Life Insurance Company" target="Goldman Sachs" label="Vitality Re IV Ltd. (Series 2013-1) - 2013-01-01 | Vitality Re III Ltd. (Series 2012-1) - 2012-01-01 | Vitality Re Ltd. - 2010-12-01" weight="467.1746">
+        <viz:color r="220" g="231" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="Aetna Life Insurance Company" target="GC Securities" label="Vitality Re II Ltd. - 2011-04-01" weight="155.98317">
+        <viz:color r="231" g="242" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="Aetna Life Insurance Company" target="BNP Paribas" label="Vitality Re IV Ltd. (Series 2013-1) - 2013-01-01 | Vitality Re III Ltd. (Series 2012-1) - 2012-01-01" weight="307.1157">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="Allstate" target="Goldman Sachs" label="Willow Re Ltd. (Series 2008-1) - 2008-06-01" weight="267.2086">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="Allstate" target="Aon Benfield Securities" label="Sanders Re Ltd. (Series 2013-1) - 2013-05-01" weight="351.40033">
+        <viz:color r="224" g="235" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="Allstate" target="Deutsche Bank Securities" label="Sanders Re Ltd. (Series 2013-1) - 2013-05-01" weight="351.40033">
+        <viz:color r="224" g="235" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="Chartis" target="Swiss Re Capital Markets" label="Lodestone Re Ltd. (Series 2010-2) - 2010-12-01" weight="480.1767">
+        <viz:color r="219" g="230" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="Chartis" target="Aon Benfield Securities" label="Lodestone Re Ltd. (Series 2010-2) - 2010-12-01 | Lodestone Re Ltd. (Series 2010-1) - 2010-05-01" weight="935.75757">
+        <viz:color r="203" g="213" b="232"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="Chartis" target="BNP Paribas" label="Lodestone Re Ltd. (Series 2010-1) - 2010-05-01" weight="455.58087">
+        <viz:color r="220" g="231" b="242"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="Zenkyoren" target="GC Securities" label="Kibou Ltd. (Series 2012-1) - 2012-01-01" weight="309.54535">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="Zenkyoren" target="Aon Benfield Securities" label="Nakama Re Ltd. (Series 2013-1) - 2013-09-01 | Muteki Ltd. - 2008-05-01" weight="623.88153">
+        <viz:color r="214" g="225" b="238"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="Zenkyoren" target="Munich Re Risk Trading" label="Muteki Ltd. - 2008-05-01" weight="323.8815">
+        <viz:color r="225" g="236" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="North Carolina JUA / IUA" target="Swiss Re Capital Markets" label="Parkton Re Ltd - 2009-07-01" weight="217.2054">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="North Carolina JUA / IUA" target="GC Securities" label="Tar Heel Re Ltd. (Series 2013-1) - 2013-04-01 | Johnston Re Ltd. (Series 2011-1) - 2011-05-01 | Johnston Re Ltd. - 2010-05-01 | Parkton Re Ltd - 2009-07-01" weight="1256.1198">
+        <viz:color r="191" g="202" b="226"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="North Carolina JUA / IUA" target="Munich Re Risk Trading" label="Tar Heel Re Ltd. (Series 2013-1) - 2013-04-01 | Johnston Re Ltd. (Series 2011-1) - 2011-05-01" weight="711.968">
+        <viz:color r="211" g="222" b="237"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="American Family Mutual Insurance Co." target="Aon Benfield Securities" label="Mariah Re Ltd. (Series 2010-2) - 2010-12-01 | Mariah Re Ltd. (Series 2010-1) - 2010-11-01" weight="213.59523">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="American Family Mutual Insurance Co." target="Deutsche Bank Securities" label="Mariah Re Ltd. (Series 2010-2) - 2010-12-01 | Mariah Re Ltd. (Series 2010-1) - 2010-11-01" weight="213.59523">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="Argo Re" target="Goldman Sachs" label="Loma Reinsurance Ltd. (Series 2011-2) - 2011-12-01 | Loma Reinsurance Ltd. (Series 2011-1) - 2011-06-01" weight="207.24866">
+        <viz:color r="229" g="240" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="Argo Re" target="Deutsche Bank Securities" label="Loma Reinsurance Ltd. (Series 2011-2) - 2011-12-01" weight="103.63581">
+        <viz:color r="233" g="244" b="249"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="AXA" target="Swiss Re Capital Markets" label="Calypso Capital Ltd. (Series 2011-1) - 2011-10-01 | Calypso Capital Ltd. - 2010-10-01" weight="479.99658">
+        <viz:color r="219" g="230" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="AXA" target="GC Securities" label="Calypso Capital Ltd. - 2010-10-01" weight="294.0692">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="East Japan Railway Company" target="Aon Benfield Securities" label="Midori Ltd. - 2007-10-01" weight="291.0366">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="East Japan Railway Company" target="Munich Re Risk Trading" label="Midori Ltd. - 2007-10-01" weight="291.0366">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="EDF" target="Swiss Re Capital Markets" label="Pylon II Capital Ltd. - 2011-08-01" weight="154.85466">
+        <viz:color r="231" g="242" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="EDF" target="Natixis" label="Pylon II Capital Ltd. - 2011-08-01" weight="154.85466">
+        <viz:color r="231" g="242" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="First Mutual Transportation Assurance Co." target="Goldman Sachs" label="MetroCat Re Ltd. (Series 2013-1) - 2013-07-01" weight="200.24059">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="First Mutual Transportation Assurance Co." target="GC Securities" label="MetroCat Re Ltd. (Series 2013-1) - 2013-07-01" weight="200.24059">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="FONDEN" target="Swiss Re Capital Markets" label="MultiCat Mexico 2009 Ltd. - 2009-10-01" weight="313.74445">
+        <viz:color r="226" g="236" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="FONDEN" target="Goldman Sachs" label="MultiCat Mexico 2009 Ltd. - 2009-10-01" weight="313.74445">
+        <viz:color r="226" g="236" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="Hannover Re" target="Aon Benfield Securities" label="Eurus III Ltd. - 2012-09-01 | Eurus II Ltd. - 2009-07-01" weight="263.97144">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="Hannover Re" target="BNP Paribas" label="Eurus II Ltd. - 2009-07-01 | Eurus III Ltd. - 2012-09-01" weight="263.97144">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="Massachusetts Property Insurance Underwriting Association" target="GC Securities" label="Shore Re Ltd. - 2010-07-01" weight="102.98651">
+        <viz:color r="233" g="244" b="249"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="Massachusetts Property Insurance Underwriting Association" target="Munich Re Risk Trading" label="Shore Re Ltd. - 2010-07-01" weight="102.98651">
+        <viz:color r="233" g="244" b="249"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="Mitsui Sumitomo" target="Swiss Re Capital Markets" label="Akibare Ltd. - 2007-05-01 | Akibare II Ltd. - 2012-04-01" weight="267.10464">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="Mitsui Sumitomo" target="GC Securities" label="Akibare II Ltd. - 2012-04-01" weight="132.14252">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="National Union Fire Insurance Co. of Pittsburgh" target="Aon Benfield Securities" label="Compass Re Ltd. (Series 2012-1) - 2012-12-01 | Compass Re Ltd. (Series 2011-1) - 2011-11-01" weight="1001.8855">
+        <viz:color r="200" g="211" b="231"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="National Union Fire Insurance Co. of Pittsburgh" target="BNP Paribas" label="Compass Re Ltd. (Series 2011-1) - 2011-11-01" weight="594.4361">
+        <viz:color r="215" g="226" b="239"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="Nephila Capital" target="Swiss Re Capital Markets" label="Gamut Re Ltd. - 2007-06-01" weight="347.97778">
+        <viz:color r="224" g="235" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="Nephila Capital" target="Goldman Sachs" label="Gamut Re Ltd. - 2007-06-01" weight="347.97778">
+        <viz:color r="224" g="235" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="Turkish Catastrophe Insurance Pool" target="GC Securities" label="Bosphorus 1 Re Ltd. - 2013-04-01" weight="402.3154">
+        <viz:color r="222" g="233" b="243"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="Turkish Catastrophe Insurance Pool" target="Munich Re Risk Trading" label="Bosphorus 1 Re Ltd. - 2013-04-01" weight="402.3154">
+        <viz:color r="222" g="233" b="243"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="ACE American Insurance Co." target="Swiss Re Capital Markets" label="Calabash Re III Ltd. - 2009-06-01 | Calabash Re Ltd. - 2006-05-01" weight="223.92531">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="American Coastal Insurance Company" target="Willis Capital Markets" label="Armor Re Ltd. (Series 2013-1) - 2013-05-01" weight="183.73218">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="Amlin AG" target="Aon Benfield Securities" label="Tramline Re II Ltd. (Series 2013-1) - 2013-06-01 | Tramline Re Ltd. (Series 2011-1) - 2011-12-01" weight="230.57352">
+        <viz:color r="229" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="AXIS Capital Holdings Ltd. subsidiaries" target="Aon Benfield Securities" label="Northshore Re Limited (Series 2013-1) - 2013-08-01" weight="200.0">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="Balboa Insurance" target="Swiss Re Capital Markets" label="VASCO Re 2006 Ltd. - 2006-06-01" weight="57.633564">
+        <viz:color r="235" g="246" b="250"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="California Earthquake Authority" target="Deutsche Bank Securities" label="Embarcadero Re Ltd. (Series 2012-2) - 2012-07-01 | Embarcadero Re Ltd. (Series 2012-1) - 2012-01-01 | Embarcadero Re Ltd. (Series 2011-1) - 2011-08-01" weight="615.8773">
+        <viz:color r="214" g="225" b="238"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="California State Compensation Insurance Fund" target="Willis Capital Markets" label="Golden State Re Ltd. (Series 2011-1) - 2011-12-01" weight="207.27162">
+        <viz:color r="229" g="240" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="Endurance Speciality" target="Goldman Sachs" label="Shackleton Re Ltd. - 2006-08-01" weight="269.54926">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="FM Global" target="Goldman Sachs" label="Cascadia Ltd. - 2005-06-01" weight="360.73572">
+        <viz:color r="224" g="235" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="Glacier Reinsurance" target="Goldman Sachs" label="Nelson Re Ltd. (Series 2008-1) - 2008-06-01" weight="192.3902">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="Groupama" target="Swiss Re Capital Markets" label="Green Fields II Capital Ltd. (Series 2013-1) - 2013-07-01 | Green Fields Capital Ltd. (Series 2011-1) - 2010-12-01 | Green Valley Ltd. (Series 2) - 2010-09-01 | Green Valley Ltd. - 2007-12-01" weight="690.1355">
+        <viz:color r="212" g="223" b="237"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="HomeWise Insurance Co." target="Swiss Re Capital Markets" label="Mangrove Re Ltd. - 2008-05-01" weight="226.71706">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="Louisiana Citizens" target="Aon Benfield Securities" label="Pelican Re Ltd. (Series 2013-1) - 2013-05-01 | Pelican Re Ltd. (Series 2012-1) - 2012-04-01" weight="267.62024">
+        <viz:color r="227" g="238" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="New Jersey Manufacturers Insurance Group" target="Towers Watson Capital Markets" label="Sullivan Re Ltd. (Series 2013-1) - 2013-07-01" weight="60.072174">
+        <viz:color r="235" g="246" b="250"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="Oil Casualty Insurance Ltd." target="Goldman Sachs" label="Avalon Re Ltd. - 2005-07-01" weight="484.75018">
+        <viz:color r="219" g="230" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="Platinum Underwriters Ltd." target="Goldman Sachs" label="Topiary Capital Ltd. - 2008-08-01" weight="213.50246">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="Renaissance Re and DaVinci Re" target="Aon Benfield Securities" label="Mona Lisa Re Ltd. (Series 2013-2) - 2013-07-01" weight="150.18044">
+        <viz:color r="231" g="242" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="State Farm" target="Aon Benfield Securities" label="Merna Re IV Ltd. (Series 2013-1) - 2013-04-01 | Merna Reinsurance II Ltd. - 2010-04-01" weight="677.2116">
+        <viz:color r="212" g="223" b="237"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="The Cincinnati Insurance Company" target="Towers Watson Capital Markets" label="Skyline Re Ltd. (Series 2013-1) - 2013-01-01" weight="62.155952">
+        <viz:color r="235" g="246" b="250"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="Tokio Marine" target="Aon Benfield Securities" label="Kizuna Re Ltd. - 2011-08-01" weight="165.17831">
+        <viz:color r="231" g="242" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="Unknown Florida based cedant" target="Towers Watson Capital Markets" label="Oak Leaf Re Ltd. (Series 2013-1) - 2013-06-01 | Oak Leaf Re Ltd. (Series 2012-1) - 2012-06-01" weight="53.785786">
+        <viz:color r="235" g="246" b="250"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="Unknown Florida based cedent" target="Towers Watson Capital Markets" label="Oak Leaf Re Ltd. (Series 2011-1) - 2011-07-01" weight="12.422535">
+        <viz:color r="237" g="248" b="251"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="Chubb Group" target="Goldman Sachs" label="East Lane Re II Ltd. - 2008-03-01 | East Lane Re V Ltd. (Series 2012-1) - 2012-03-01 | East Lane Re IV Ltd. (Series 2011-1) - 2011-03-01" weight="869.12">
+        <viz:color r="205" g="216" b="233"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="Chubb Group" target="GC Securities" label="East Lane Re V Ltd. (Series 2012-1) - 2012-03-01 | East Lane Re IV Ltd. (Series 2011-1) - 2011-03-01" weight="650.0602">
+        <viz:color r="213" g="224" b="238"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="Chubb Group" target="Deutsche Bank Securities" label="East Lane Re V Ltd. (Series 2012-1) - 2012-03-01 | East Lane Re IV Ltd. (Series 2011-1) - 2011-03-01" weight="650.0602">
+        <viz:color r="213" g="224" b="238"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="152" source="Chubb Group" target="Willis Capital Markets" label="East Lane Re V Ltd. (Series 2012-1) - 2012-03-01 | East Lane Re IV Ltd. (Series 2011-1) - 2011-03-01" weight="650.0602">
+        <viz:color r="213" g="224" b="238"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="Chubb Group" target="Citigroup" label="East Lane Re III Ltd. - 2009-02-01 | East Lane Re V Ltd. (Series 2012-1) - 2012-03-01 | East Lane Re IV Ltd. (Series 2011-1) - 2011-03-01" weight="815.3887">
+        <viz:color r="207" g="218" b="234"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="Nationwide Mutual Insurance Co." target="Goldman Sachs" label="Caelus Re 2013 Ltd. (Series 2013-2) - 2013-04-01 | Caelus Re 2013 Ltd. (Series 2013-1) - 2013-03-01 | Caelus Re II Ltd. - 2010-05-01" weight="791.4446">
+        <viz:color r="208" g="219" b="235"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="153" source="Nationwide Mutual Insurance Co." target="GC Securities" label="Caelus Re 2013 Ltd. (Series 2013-2) - 2013-04-01 | Caelus Re 2013 Ltd. (Series 2013-1) - 2013-03-01" weight="593.1329">
+        <viz:color r="215" g="226" b="239"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="Nationwide Mutual Insurance Co." target="Aon Benfield Securities" label="Caelus Re 2013 Ltd. (Series 2013-2) - 2013-04-01 | Caelus Re 2013 Ltd. (Series 2013-1) - 2013-03-01 | Caelus Re II Ltd. - 2010-05-01" weight="791.4446">
+        <viz:color r="208" g="219" b="235"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="Nationwide Mutual Insurance Co." target="Deutsche Bank Securities" label="Caelus Re 2013 Ltd. (Series 2013-2) - 2013-04-01 | Caelus Re 2013 Ltd. (Series 2013-1) - 2013-03-01" weight="593.1329">
+        <viz:color r="215" g="226" b="239"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="Nationwide Mutual Insurance Co." target="BNP Paribas" label="Caelus Re 2013 Ltd. (Series 2013-2) - 2013-04-01 | Caelus Re 2013 Ltd. (Series 2013-1) - 2013-03-01" weight="593.1329">
+        <viz:color r="215" g="226" b="239"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="SCOR" target="Goldman Sachs" label="Atlas Reinsurance IV plc - 2007-11-01 | Atlas Reinsurance III plc - 2006-12-01" weight="400.5736">
+        <viz:color r="222" g="233" b="243"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="SCOR" target="Aon Benfield Securities" label="Atlas Reinsurance VII Limited - 2012-11-01 | Atlas VI Capital Ltd. (Series 2011-1) - 2011-12-01 | Atlas VI Capital Ltd. (Series 2010-1) - 2010-12-01 | Atlas VI Capital Ltd. (Series 2009-1) - 2009-12-01 | Atlas IX Capital Limited (Series 2013-1) - 2013-09-01" weight="922.12933">
+        <viz:color r="203" g="214" b="232"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="SCOR" target="Deutsche Bank Securities" label="Atlas V Capital Ltd. - 2009-02-01 | Atlas VI Capital Ltd. (Series 2009-1) - 2009-12-01" weight="301.66446">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="SCOR" target="Natixis" label="Atlas Reinsurance VII Limited - 2012-11-01 | Atlas VI Capital Ltd. (Series 2011-1) - 2011-12-01" weight="580.8734">
+        <viz:color r="216" g="227" b="239"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="SCOR" target="BNP Paribas" label="Atlas VI Capital Ltd. (Series 2009-1) - 2009-12-01 | Atlas V Capital Ltd. - 2009-02-01 | Atlas Reinsurance VII Limited - 2012-11-01" weight="533.2852">
+        <viz:color r="217" g="228" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="Catlin" target="GC Securities" label="Bay Haven Ltd. - 2006-09-01" weight="230.88005">
+        <viz:color r="229" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="Catlin" target="Aon Benfield Securities" label="Newton Re Ltd. - 2007-12-01" weight="250.53955">
+        <viz:color r="228" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="Catlin" target="Willis Capital Markets" label="Newton Re Ltd. (Series 2008-1) - 2008-02-01" weight="165.719">
+        <viz:color r="231" g="242" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="Catlin" target="JP Morgan" label="Newton Re Ltd. - 2007-12-01" weight="250.53955">
+        <viz:color r="228" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="Catlin" target="Lehman Brothers" label="Newton Re Ltd. (Series 2008-1) - 2008-02-01" weight="165.719">
+        <viz:color r="231" g="242" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="Catlin" target="ABN Amro" label="Bay Haven Ltd. - 2006-09-01" weight="230.88005">
+        <viz:color r="229" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="Munich Re" target="GC Securities" label="EOS Wind Ltd. - 2010-05-01 | Queen Street VIII Re Ltd. - 2013-06-01 | Queen Street VI Re Ltd. - 2012-07-01 | Queen Street III Capital Ltd. - 2011-07-01 | Queen Street II Capital Ltd. - 2011-03-01" weight="522.89966">
+        <viz:color r="218" g="229" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="Munich Re" target="Morgan Stanley" label="Carillon Ltd. - 2006-06-01" weight="97.40072">
+        <viz:color r="233" g="244" b="249"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="Munich Re" target="Willis Capital Markets" label="Queen Street VII Re Ltd. - 2012-11-01 | Queen Street VI Re Ltd. - 2012-07-01" weight="178.27437">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="Munich Re" target="JP Morgan" label="Ianus Capital Ltd. - 2009-06-01 | Nathan Ltd. - 2008-02-01" weight="164.69458">
+        <viz:color r="231" g="242" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="Munich Re" target="BNP Paribas" label="Aiolos Ltd. - 2005-11-01" weight="152.32779">
+        <viz:color r="231" g="242" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="Munich Re" target="Munich Re Risk Trading" label="Queen Street VIII Re Ltd. - 2013-06-01 | Queen Street VII Re Ltd. - 2012-11-01 | Queen Street VI Re Ltd. - 2012-07-01 | Queen Street V Re Ltd. - 2012-02-01 | Queen Street IV Capital Ltd. - 2011-10-01 | Queen Street III Capital Ltd. - 2011-07-01 | Queen Street II Capital Ltd. - 2011-03-01 | Queen Street Ltd. - 2008-03-01 | Nathan Ltd. - 2008-02-01" weight="990.3545">
+        <viz:color r="201" g="211" b="231"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="Travelers" target="Swiss Re Capital Markets" label="Long Point Re III Ltd. (Series 2013-1) - 2013-05-01 | Long Point Re III Ltd. (Series 2012-1) - 2012-06-01 | Longpoint Re II Ltd. - 2009-12-01" weight="1097.5024">
+        <viz:color r="197" g="207" b="229"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="Travelers" target="Goldman Sachs" label="Long Point Re III Ltd. (Series 2013-1) - 2013-05-01 | Longpoint Re II Ltd. - 2009-12-01" weight="842.7101">
+        <viz:color r="206" g="217" b="234"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="Travelers" target="GC Securities" label="Long Point Re III Ltd. (Series 2012-1) - 2012-06-01 | Longpoint Re II Ltd. - 2009-12-01 | Long Point Re III Ltd. (Series 2013-1) - 2013-05-01" weight="1097.5024">
+        <viz:color r="197" g="207" b="229"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="151" source="Travelers" target="Aon Benfield Securities" label="Long Point Re III Ltd. (Series 2012-1) - 2012-06-01" weight="254.7924">
+        <viz:color r="228" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="Travelers" target="Deutsche Bank Securities" label="Longpoint Re II Ltd. - 2009-12-01 | Long Point Re III Ltd. (Series 2013-1) - 2013-05-01" weight="842.7101">
+        <viz:color r="206" g="217" b="234"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="Travelers" target="BNP Paribas" label="Long Point Re III Ltd. (Series 2012-1) - 2012-06-01 | Longpoint Re II Ltd. - 2009-12-01" weight="796.3022">
+        <viz:color r="208" g="219" b="235"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="USAA" target="Swiss Re Capital Markets" label="Residential Reinsurance 2012 Ltd. (Series 2012-2) - 2012-11-01 | Residential Reinsurance 2012 Ltd. (Series 2012-1) - 2012-05-01 | Residential Reinsurance 2013 Ltd. (Series 2013-1) - 2013-05-01 | Residential Reinsurance 2011 Ltd. (Series 2011-1) - 2011-05-01" weight="1169.8422">
+        <viz:color r="194" g="205" b="227"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="USAA" target="Goldman Sachs" label="Residential Reinsurance 2013 Ltd. (Series 2013-1) - 2013-05-01 | Residential Reinsurance 2011 Ltd. (Series 2011-1) - 2011-05-01 | Residential Reinsurance 2010 Ltd. - 2010-05-01 | Residential Reinsurance 2009 Ltd. - 2009-05-01 | Residential Reinsurance 2008 Ltd. - 2008-05-01 | Residential Reinsurance 2005 Ltd. - 2005-06-01 | Residential Reinsurance 2012 Ltd. (Series 2012-2) - 2012-11-01" weight="2263.3472">
+        <viz:color r="154" g="164" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="133" source="USAA" target="Aon Benfield Securities" label="Residential Reinsurance 2010 Ltd. - 2010-05-01 | Residential Reinsurance 2009 Ltd. - 2009-05-01" weight="707.5466">
+        <viz:color r="211" g="222" b="237"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="USAA" target="Deutsche Bank Securities" label="Residential Reinsurance 2013 Ltd. (Series 2013-1) - 2013-05-01 | Residential Reinsurance 2012 Ltd. (Series 2012-2) - 2012-11-01 | Residential Reinsurance 2010 Ltd. - 2010-05-01" weight="1141.6942">
+        <viz:color r="195" g="206" b="228"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="USAA" target="BNP Paribas" label="Residential Reinsurance 2009 Ltd. - 2009-05-01 | Residential Reinsurance 2005 Ltd. - 2005-06-01" weight="485.0364">
+        <viz:color r="219" g="230" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="USAA" target="Lehman Brothers" label="Residential Reinsurance 2008 Ltd. - 2008-05-01" weight="377.86176">
+        <viz:color r="223" g="234" b="243"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="Allianz" target="Swiss Re Capital Markets" label="Blue Fin Ltd. (Series 3) - 2010-05-01 | Blue Danube II Ltd. (Series 2013-1) - 2013-05-01 | Blue Danube Ltd. (Series 2012-1) - 2012-04-01 | Blue Fin Ltd. (Series 4) - 2011-04-01" weight="622.0443">
+        <viz:color r="214" g="225" b="238"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="Allianz" target="Goldman Sachs" label="Blue Fin Ltd. (Series 2) - 2009-04-01" weight="197.42009">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="Allianz" target="GC Securities" label="Blue Danube Ltd. (Series 2012-1) - 2012-04-01 | Blue Danube II Ltd. (Series 2013-1) - 2013-05-01 | Blue Coast Ltd. - 2008-07-01" weight="547.2457">
+        <viz:color r="217" g="228" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="Allianz" target="Aon Benfield Securities" label="Blue Fin Ltd. (Series 4) - 2011-04-01 | Blue Fin Ltd. (Series 3) - 2010-05-01 | Blue Fin Ltd. (Series 2) - 2009-04-01" weight="399.80884">
+        <viz:color r="222" g="233" b="243"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="Allianz" target="Allianz Re" label="Blue Fin Ltd. (Series 4) - 2011-04-01" weight="41.595512">
+        <viz:color r="235" g="246" b="250"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="Allianz" target="Deutsche Bank Securities" label="Blue Coast Ltd. - 2008-07-01" weight="127.59015">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="Allianz" target="Morgan Stanley" label="Blue Fin Ltd. - 2007-11-01" weight="323.47995">
+        <viz:color r="225" g="236" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="Flagstone Re" target="Swiss Re Capital Markets" label="Valais Re Ltd. - 2008-05-01" weight="112.27892">
+        <viz:color r="233" g="244" b="249"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="Flagstone Re" target="Goldman Sachs" label="Montana Re Ltd. - 2009-11-01" weight="189.19463">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="Flagstone Re" target="GC Securities" label="Montana Re Ltd. (Series 2010-1) - 2010-12-01" weight="224.08246">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="Flagstone Re" target="Aon Benfield Securities" label="Montana Re Ltd. - 2009-11-01" weight="189.19463">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="Flagstone Re" target="Deutsche Bank Securities" label="Montana Re Ltd. - 2009-11-01" weight="189.19463">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="Flagstone Re" target="UBS" label="Valais Re Ltd. - 2008-05-01" weight="112.27892">
+        <viz:color r="233" g="244" b="249"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="Flagstone Re" target="Bank of New York Mellon" label="Montana Re Ltd. - 2009-11-01" weight="189.19463">
+        <viz:color r="230" g="241" b="247"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="Swiss Re" target="Swiss Re Capital Markets" label="Mythen Re Ltd. (Series 2013-1) - 2013-07-01 | MultiCat Mexico Ltd. (Series 2012-1) - 2012-10-01 | Mythen Re Ltd. (Series 2012-2) - 2012-11-01 | Vita Capital V Ltd. - 2012-07-01 | Mythen Ltd. (Series 2012-1) - 2012-05-01 | Successor X Ltd. (Series 2011-3) - 2011-11-01 | Sector Re V Ltd. (Series 1, Class B) - 2011-06-01 | Vita Capital IV Ltd. (Series V and VI) - 2011-07-01 | Successor X Ltd. (Series 2011-2) - 2011-02-01 | Sector Re V Ltd. (Series 1, Class A) - 2011-03-01 | Successor X Ltd. (Series 2011-1) - 2010-12-01 | Kortis Capital Ltd. - 2010-12-01 | Vega Capital Ltd. (Series 2010-I) - 2010-12-01 | Vita Capital IV Ltd. - 2010-10-01 | Successor X Ltd. (Series 2010-1) - 2010-03-01 | Successor X Ltd. - 2009-11-01 | Successor II Ltd. (Series 4) - 2009-04-01 | Vega Capital Ltd. (Series 2008-1) - 2008-06-01 | Globecat Ltd. - 2007-12-01 | MedQuake Ltd. - 2007-05-01 | Successor - 2006-06-01 | Arbor I Ltd. (Series 10) - 2005-12-01 | Arbor I Ltd. (Series 9) - 2005-06-01 | Arbor I Ltd. (Series 8) - 2005-03-01 | Vita Capital II Ltd. - 2005-04-01 | Combine Re Ltd. (Series 2012-1) - 2012-03-01" weight="5327.823">
+        <viz:color r="129" g="15" b="124"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="26"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="Swiss Re" target="Goldman Sachs" label="Mythen Re Ltd. (Series 2013-1) - 2013-07-01 | MultiCat Mexico Ltd. (Series 2012-1) - 2012-10-01 | Mythen Ltd. (Series 2012-1) - 2012-05-01" weight="825.67645">
+        <viz:color r="207" g="218" b="234"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="143" source="Swiss Re" target="Deutsche Bank Securities" label="Mythen Ltd. (Series 2012-1) - 2012-05-01" weight="407.07004">
+        <viz:color r="222" g="233" b="243"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="Swiss Re" target="BNP Paribas" label="Vega Capital Ltd. (Series 2008-1) - 2008-06-01" weight="160.32516">
+        <viz:color r="231" g="242" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="142" source="Swiss Re" target="Munich Re Risk Trading" label="MultiCat Mexico Ltd. (Series 2012-1) - 2012-10-01" weight="318.4861">
+        <viz:color r="225" g="236" b="244"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="Swiss Re" target="Bank of New York Mellon" label="Successor X Ltd. (Series 2010-1) - 2010-03-01 | Successor X Ltd. - 2009-11-01" weight="291.12476">
+        <viz:color r="226" g="237" b="245"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="144" source="Swiss Re" target="Vega Capital" label="Vega Capital Ltd. (Series 2008-1) - 2008-06-01" weight="160.32516">
+        <viz:color r="231" g="242" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="AIG" target="GC Securities" label="Tradewynd Re Ltd. (Series 2013-1) - 2013-07-01" weight="125.15037">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="AIG" target="Aon Benfield Securities" label="Tradewynd Re Ltd. (Series 2013-1) - 2013-07-01" weight="125.15037">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="AIG" target="Natixis" label="Tradewynd Re Ltd. (Series 2013-1) - 2013-07-01" weight="125.15037">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="AIG" target="BNP Paribas" label="Tradewynd Re Ltd. (Series 2013-1) - 2013-07-01" weight="125.15037">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="Zurich American Insurance Corporation" target="Swiss Re Capital Markets" label="Kamp Re 2005 Ltd. - 2005-08-01 | Lakeside Re III Ltd. - 2012-12-01" weight="501.28412">
+        <viz:color r="219" g="229" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="Zurich American Insurance Corporation" target="Aon Benfield Securities" label="Lakeside Re II Ltd. - 2009-12-01 | Lakeside Re Ltd. - 2006-12-01" weight="463.88074">
+        <viz:color r="220" g="231" b="241"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="Zurich American Insurance Corporation" target="BNP Paribas" label="Lakeside Re II Ltd. - 2009-12-01" weight="243.67941">
+        <viz:color r="228" g="239" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="Zurich American Insurance Corporation" target="Munich Re Risk Trading" label="Lakeside Re III Ltd. - 2012-12-01 | Lakeside Re Ltd. - 2006-12-01 | Lakeside Re II Ltd. - 2009-12-01" weight="738.9091">
+        <viz:color r="210" g="221" b="236"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="Aspen Insurance" target="Willis Capital Markets" label="Ajax Re Ltd. - 2007-04-01" weight="113.15571">
+        <viz:color r="233" g="244" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="Aspen Insurance" target="Lehman Brothers" label="Ajax Re Ltd. - 2007-04-01" weight="113.15571">
+        <viz:color r="233" g="244" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="Aurigen Reinsurance" target="Swiss Re Capital Markets" label="Vecta I Ltd. - 2011-12-01" weight="122.29025">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="Aurigen Reinsurance" target="Credit Agricole Securities" label="Vecta I Ltd. - 2011-12-01" weight="122.29025">
+        <viz:color r="232" g="243" b="248"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="Brit Insurance" target="MMC Securities" label="Fremantle Ltd. - 2007-06-01" weight="224.5018">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="Brit Insurance" target="ABN Amro" label="Fremantle Ltd. - 2007-06-01" weight="224.5018">
+        <viz:color r="229" g="240" b="246"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="Citizens Property Insurance" target="Goldman Sachs" label="Everglades Re Ltd. (Series 2013-1) - 2013-03-01 | Everglades Re Ltd. (Series 2012-1) - 2012-04-01" weight="1013.5463">
+        <viz:color r="200" g="211" b="231"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="Citizens Property Insurance" target="Loop Capital Markets" label="Everglades Re Ltd. (Series 2013-1) - 2013-03-01 | Everglades Re Ltd. (Series 2012-1) - 2012-04-01" weight="1013.5463">
+        <viz:color r="200" g="211" b="231"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="Florida Municipal Insurance Trust" target="Towers Watson Capital Markets" label="Sunshine Re Ltd. (Series 2013-1) - 2013-05-01" weight="20.080019">
+        <viz:color r="236" g="247" b="250"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="MyLotto24" target="inea GmbH" label="Hoplon Insurance Ltd. - 2011-09-01" weight="72.67134">
+        <viz:color r="234" g="245" b="249"></viz:color>
+        <attvalues>
+          <attvalue for="DealNum" value="1"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
